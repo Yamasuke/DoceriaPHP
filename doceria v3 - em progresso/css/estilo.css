@@ -1,0 +1,16 @@
+.conteudo {
+  width: 60%;
+  text-align: left;
+  padding: 10px;
+  height: 825px;
+}
+.central{
+  margin-left: auto;
+  margin-right: auto;
+}
+form {
+  /* Para ver as bordas do formulário */
+  padding: 1em;
+  border: 1px solid #dc3545;
+  border-radius: 1em;
+}
